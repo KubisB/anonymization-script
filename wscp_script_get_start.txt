@@ -1,0 +1,1 @@
+open sftp://user:user;fingerprint=ssh-data@0.0.0.0:222/
